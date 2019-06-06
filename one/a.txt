@@ -2,3 +2,4 @@ git is good
 hello word
 lalal!
 sing rap basketball
+printf("666");
